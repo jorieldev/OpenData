@@ -1,0 +1,21 @@
+{
+  "name": "tienda-online",
+  "version": "0.0.0",
+  "description": "Tienda Online",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src",
+    "dev": "node src"
+  },
+  "author": {
+    "name": "JARD"
+  },
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
